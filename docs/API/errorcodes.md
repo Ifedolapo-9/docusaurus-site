@@ -1,3 +1,9 @@
+---
+id: errorcodes
+title: Error codes
+---
+
+
 **Expensify API Error Codes**
 
 This table lists potential error codes encountered when using the Expensify API and their possible reasons.

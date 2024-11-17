@@ -1,3 +1,9 @@
+---
+id: authentication
+title: Authentication
+---
+
+
 To use the API, you will need to generate API credentials.
 
 1. Create an Expensify account at [https://www.expensify.com/](https://www.expensify.com/)
