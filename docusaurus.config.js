@@ -82,7 +82,7 @@ const config = {
           {
             type: 'doc',
             sidebarId: 'api',
-            docId: 'API/authentication',
+            docId: 'API/authentication', 
             position: 'left',
             label: 'API Documentation',
           },

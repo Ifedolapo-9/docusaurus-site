@@ -34,7 +34,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'API',
-      items: ['API/authentication', 'API/errorcodes', "API/endpoints"],
+      items: ['API/introduction', 'API/authentication', 'API/errorcodes', "API/endpoints"],
     },
   ],
 
